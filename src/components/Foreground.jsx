@@ -36,7 +36,7 @@ function Foreground() {
     }
 
     const Opengit = () => {
-        window.open('https://github.com/react-icons/react-icons', '_blank').focus();
+        window.open('https://github.com/ANSHPG/PAPERS', '_blank').focus();
     }
 
     const data = [{
