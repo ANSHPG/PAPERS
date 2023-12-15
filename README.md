@@ -1,4 +1,4 @@
-#PAPERS 
+PAPERS
 
 Papers is a versatile note-taking and file-uploading web application built with React, Tailwind CSS, Framer Motion, and other npm libraries. This project aims to provide users with a seamless and visually appealing experience for managing notes and files. Whether you're a student, professional, or anyone in need of a powerful organization tool, Papers has got you covered.
 
